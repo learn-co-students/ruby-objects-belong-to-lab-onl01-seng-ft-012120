@@ -3,4 +3,4 @@ class Post
 
 end
 
-post = Post.new("Hello World")
+
